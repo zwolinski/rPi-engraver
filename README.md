@@ -35,3 +35,10 @@ Second way to run the driver is to use the User Application. Currently it works 
 You can find more information in the App's repo.
 ### Device
 Third part of the project is the device - a small-sized laser engraver.
+
+## To do
+- [ ] Add limit switches to the device
+- [ ] Improve the User app
+- [ ] Improve the motors controller
+- [ ] Create an application for Android devices
+
